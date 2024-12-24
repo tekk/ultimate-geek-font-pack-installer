@@ -67,7 +67,7 @@ No half-measures here. With this, you can transform your coding environment, ter
    git clone https://github.com/tekk/ultimate-geek-font-pack-installer.git
    ```
 
-2. **Populate the Folders**  
+2. **Populate the Folders**  (not neccessary, as the font are already in the repo)
    - `./google-fonts` → Stuff it with all your `.ttf` Google Fonts.  
    - `./nerdfonts` → Dump your Nerd Fonts collection here.  
    - If you’re feeling extra, add more folders and update `$FontDirs` in the scripts.
