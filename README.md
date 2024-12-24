@@ -64,9 +64,8 @@ No half-measures here. With this, you can transform your coding environment, ter
 
 1. **Grab the Repo**  
    ```bash
-   git clone https://github.com/your-username/complete-google-nerdfonts-collection.git
+   git clone https://github.com/tekk/complete-google-nerdfonts-collection.git
    ```
-   Or [download the ZIP](https://github.com/your-username/complete-google-nerdfonts-collection/archive/refs/heads/main.zip) and unzip somewhere sensible.
 
 2. **Populate the Folders**  
    - `./google-fonts` → Stuff it with all your `.ttf` Google Fonts.  
